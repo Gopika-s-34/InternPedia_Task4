@@ -1,4 +1,4 @@
-#Credit Card Detection
+# Credit Card Detection
 
 During my Data Science internship at InternPedia, I had the opportunity to work on a critical project focused on detecting fraudulent credit card transactions using advanced machine learning techniques. This project was a deep dive into the world of anomaly detection and financial security.
 
